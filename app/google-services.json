@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "681606544828",
+    "firebase_url": "https://ownapplication-c6f48.firebaseio.com",
+    "project_id": "ownapplication-c6f48",
+    "storage_bucket": "ownapplication-c6f48.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681606544828:android:2d3726fcb25e7c93",
+        "android_client_info": {
+          "package_name": "tycho.your_own"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "681606544828-9vls4pkf6kvdekvjl8mq9e7q8j4jp1kk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXvzH9z3PTphQg0mFk5wD6E8ers022stc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
